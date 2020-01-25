@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Term
 %define	pnam	Size-Any
 Summary:	Term::Size::Any - Retrieve terminal size
