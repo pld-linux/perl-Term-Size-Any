@@ -8,7 +8,7 @@ Summary:	Term::Size::Any - Retrieve terminal size
 #Summary(pl.UTF-8):
 Name:		perl-Term-Size-Any
 Version:	0.001
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
